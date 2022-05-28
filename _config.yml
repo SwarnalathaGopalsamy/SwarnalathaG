@@ -1,7 +1,6 @@
-CdA's website
+name: CdA's website
 description: Caran d'Arche is a pencil who's looking for an opportunity
 markdown: kramdown
 twitter_username: caran
 github_username: CaranDArche
-
 author: caran@gmail.com
